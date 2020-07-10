@@ -1,0 +1,10 @@
+.subject {
+  background-color: #fff;
+  padding: 20px 10px;
+}
+.subject.primary-button {
+  margin-bottom: 20px;
+}
+.primary-btn {
+  margin-right: 20px;
+}
